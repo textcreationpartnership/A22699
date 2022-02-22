@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Declaracion de las causas que han mouido la Magestad de la Reyna d'Yngalaterra, a embiar vn'armada real, para defensa de sus reynos y señorios contra las fuerças del Rey d'Espana lo qual se ha de publicar por los generales de ladicha armada, para que todo el mundo sepa, que su Magestad ha juntado est' armada solamente para se defender de sus enemigos y offenderlos, y no en daño de qualesquiera otros que no ayudaren a sus dichos enemigos, a los quales su intencion y voluntad es que se haga todo buen tratamiento.</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1596</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22699</idno>
+            <idno type="STC">STC 9208</idno>
+            <idno type="STC">ESTC S105523</idno>
+            <idno type="EEBO-CITATION">99841251</idno>
+            <idno type="PROQUEST">99841251</idno>
+            <idno type="VID">5819</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 5819)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 529:17)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Declaracion de las causas que han mouido la Magestad de la Reyna d'Yngalaterra, a embiar vn'armada real, para defensa de sus reynos y señorios contra las fuerças del Rey d'Espana lo qual se ha de publicar por los generales de ladicha armada, para que todo el mundo sepa, que su Magestad ha juntado est' armada solamente para se defender de sus enemigos y offenderlos, y no en daño de qualesquiera otros que no ayudaren a sus dichos enemigos, a los quales su intencion y voluntad es que se haga todo buen tratamiento.</title>
+                  <author>England and Wales.</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+                  <author>Essex, Robert Devereux, Earl of, 1566-1601.</author>
+                  <author>Nottingham, Charles Howard, Earl of, ca. 1536-1624.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Per los deputados de Christoual Barker, impressor de la Reyna,</publisher>
+                  <pubPlace>Impresso en Londres :</pubPlace>
+                  <date>1596.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: R. Essex. C. Howard.</note>
+                  <note>A translation of: A declaration of the causes moving the Queenes Majestie of England, to prepare and send a navy to the seas, for the defence of her realmes against the Kinge of Spaines forces.</note>
+                  <note>The Latin edition is dated at end: Greenwich, 25 April 1596.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="spa">spa</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cadiz Expedition, 1596 --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  Spain --  Early works to 1800.</term>
+               <term>Spain --  Foreign relations --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  1558-1603.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="spa">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:5819:1"/>
+            <pb facs="tcp:5819:1"/>
+            <p>Declaracion de las cauſas que han mouido la Ma<g ref="char:EOLhyphen"/>geſtad de la Reyna d'Yngalaterra, a <hi>em<g ref="char:EOLhyphen"/>biar vn'armada real, para defenſa de ſus Reynos y ſeño<g ref="char:EOLhyphen"/>rios</hi> contra las fuerças del Rey d'Eſpana, lo qual ſe ha de <hi>publicar por los Generales de la dicha armada, para que todo el mundo ſe<g ref="char:EOLhyphen"/>pa, que ſu Mageſtad ha juntado est' armada ſolamente para ſe defender de ſus enemigos y offenderlos, y no en daño de quales<g ref="char:EOLhyphen"/>quiera otros que no ayudar en a ſuſdichos enemigos, a los quales ſu intencion y voluntad es que ſe haga todo buen tratamiento.</hi>
+            </p>
+            <figure/>
+            <p>Impreſſo en Londres per los Deputados de CHRISTOVAL BARKER, <hi>Impreſſor de la Reyna.</hi> 1596</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:5819:2"/>
+            <pb n="1" facs="tcp:5819:2"/>
+            <head>Declaracion de las cauſas que <hi>han mouido la Magestad de la Reyna</hi> d'Yngalaterra, à embiar vn'armada real, para <hi>defenſa de ſus Reynos y ſeñorios, contra las fuerças del Rey d'Eſpaña, &amp;c.</hi>
+            </head>
+            <opener>
+               <salute>
+                  <seg rend="decorInit">P</seg> Todos los Chriſtianos que la preſente vieren, o oyeren ſa<g ref="char:EOLhyphen"/>lud.</salute>
+            </opener>
+            <p>Nos <hi>Roberto</hi> Conde d'Eſſex &amp; d'Ewe, viſconte d'Hereford, Baron Ferrers de Charteley, Bourchier y Lo<g ref="char:EOLhyphen"/>uan, &amp;c. y <hi>Carlos</hi> Baron d'Effingham, grande Almira<g ref="char:cmbAbbrStroke">̄</g>te d'Yngalaterra, teniendo cargo de vna armada Real, que ha mandado apercebir y echar a la mar la Mageſtad de la ſereniſsima Princeſa Doña <hi>Iſabel</hi> Reyna de Yngalaterra, de Francia, y de Yrlanda &amp;c. Hazemos ſaber a to<g ref="char:EOLhyphen"/>das y qualesquier perſonas, que ſu Mageſtad ha hecho juntar, y deſpedir ladicha Armada para defenſa de ſus Reynos, ſeñorios y vaſ<g ref="char:EOLhyphen"/>ſallos, contra vn tan grande poder, como a<g ref="char:EOLhyphen"/>uiſan de todas las partes de la Chriſtiandad, que tiene ya juntado el Rey d'Eſpaña, y pre<g ref="char:EOLhyphen"/>tende aun muy mucho mas de aumentar, con nueuo aparato de gente y de nauios que haze cada dia venir en daño de la ſereniſsima Reyna;
+<pb n="2" facs="tcp:5819:3"/>
+Como el año de 1588. lo tento y acometio ya otra vez (en el tiempo meſmo que los Deputa<g ref="char:EOLhyphen"/>dos de ambas part<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, tratauan de pazes) con la mayor Armada que en ſu tiempo jamas jun<g ref="char:EOLunhyphen"/>tado fueſſe; Aunque fue Dios ſeruido, me<g ref="char:EOLhyphen"/>diante'l valor y virtud de los generoſos y leales vaſſallos de ſu Mageſtad tornarle ſu in<g ref="char:EOLhyphen"/>tento dél todo vano. Y porquanto ſu Mageſtad ſe halla al preſente en terminos de muy buena y entera amiſtad, y correſpondencia, con todos los Reyes y Principes de la Chriſtiandad, ecceto el Rey d'Eſpaña, el qual, ha ya tantos años, que ſe ha, muy ſin razon, manifieſtamente enemi<g ref="char:EOLhyphen"/>ſtado con ſu Mageſtad, como ſe ha viſto por los efetos, de lo que tantas vezes, ha tan iniuſta<g ref="char:EOLhyphen"/>mente pretendido, contra ſu Real perſona, ſus Eſtados y vaſſallos, no auiendoſele antes de parte de ſu Mageſtad dado ocaſion ninguna pa<g ref="char:EOLhyphen"/>ra ello: nos los ſuſodichos Co<g ref="char:cmbAbbrStroke">̄</g>de y Almirante, hazemos ſaber y certificamos a todas y qualeſ<g ref="char:EOLhyphen"/>quier perſonas; que ſu Mageſtad, nos ha muy eſpreſſamente ma<g ref="char:cmbAbbrStroke">̄</g>dado, y encargado, que en eſte nueſtro viaje, no acometamos, ni hagamos daño ni agrauio ninguno, a perſona ninguna de qualquiera nacion que ſea; ſi no ſolamente a los vaſſallos naturales d'el Rey d'Eſpaña, o a los que, no ſiendo ſus vaſſallos, ſe prouare que
+<pb n="3" facs="tcp:5819:3"/>
+le ayudan con gente, nauios, artilleria, mante<g ref="char:EOLhyphen"/>nimientos o qualquier' otros aparejos de guer<g ref="char:EOLhyphen"/>ra, en daño y perjuyzio de ſu Magiſtad. y que pretendemos obedeſcer en ello, como ſomos obligados, a la voluntad de ſu Mageſtad. Por lo qual ma<g ref="char:cmbAbbrStroke">̄</g>damos y ordenamos, muy encareſcida<g ref="char:EOLhyphen"/>mente, ſo pena de grauiſsimo caſtigo, a todos y qualquier perſona, que fuere en ladicha Arma<g ref="char:EOLhyphen"/>da debaxo de nueſtro mando, que ſe ayan y go<g ref="char:EOLhyphen"/>uiernen co<g ref="char:cmbAbbrStroke">̄</g>forme a eſte mandamiento de ſu Ma<g ref="char:EOLhyphen"/>geſtad. Pero con todo eſſo, para euitar todos ocaſiones, que puedan poner duda, quien y qua<g ref="char:EOLhyphen"/>les ſean las perſonas, (no ſiendo vaſſallos del Rey d'Eſpaña) a quien podremos hazer cargo, de hauer manifieſtamente ayudado, y aſsiſtido, a los aparatos quel dicho Rey haze por mar o por tierra, en daño de ſu Mageſtad. Rogamos de parte de Dios, y encargamos muy de veras, (pa<g ref="char:EOLhyphen"/>ra aclarar tanto mejor eſte negocio) a todos los que, no ſiendo vaſſallos naturales de'l Rey d'Eſpaña, auran, nonoſta<g ref="char:cmbAbbrStroke">̄</g>te ayudadole o acudido a el con nauios, mantenimie<g ref="char:cmbAbbrStroke">̄</g>tos o municiones, como eſta ya dicho, que hagan luego boluer y retirar ſuſdichos nauios y aparejos de guerra, de qualeſquier Puertos d'Eſpaña o de Portugal, donde ſe hallaren o ſe aparten de la compañia y ſeruicio de los nauios deldicho Rey, contra
+<pb n="4" facs="tcp:5819:4"/>
+nueſtra Armada, y ſe torne<g ref="char:cmbAbbrStroke">̄</g> a ſus tierras, o ſi bien les pareſciere ſe junten con nueſtra dicha Arma<g ref="char:EOLhyphen"/>da. Prometiendoles, en nombre y por parte de la Sereniſsima Mageſtad de la Reyna, ſeguri<g ref="char:EOLhyphen"/>dad de ſus haziendas y perſonas, y que ſeran tratados y defendidos como amigos, y podran con toda libertad gozar y diſponer de todos ſus nauios y aparejos, que han ſido tomados o em<g ref="char:EOLhyphen"/>bargados por el Rey d'Eſpaña, o pretendian ſer embiados a ſu ſeruicio, o auran ſido por ſus dueños ſacados y apartados de ſu dicho ſerui<g ref="char:EOLhyphen"/>cio, con tal, que en ninguna manera s'empleen en deſſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uicio ni daño de ſu Mageſtad, o de ſus Generales ſino como conuiene a amigos. Pro<g ref="char:EOLhyphen"/>teſta<g ref="char:cmbAbbrStroke">̄</g>do a todos los que (teniendo noticia d'eſta Real intencion de S. Mageſtad, y de la promeſſa que de ſu parte les hazemos, y prometemos de cumplir la contodo fauor) moſtraren, de no te<g ref="char:EOLhyphen"/>ner cuenta, de acetar eſte nueſtro offreſcimien<g ref="char:EOLhyphen"/>to, y no procuraren de complir lo que tan juſta<g ref="char:EOLhyphen"/>mente les pedimos, para ſu proprio bien y liber<g ref="char:EOLhyphen"/>tad, que tendremos en tal caſo mucha razon, como lo permiten las leyes de la guerra, de to<g ref="char:EOLhyphen"/>mar y tratar a los tales, como a perſonas que conſienten con el Rey d'Eſpaña, y le aſsiſten a daño de ſu Magiſtad moſtrando ſe le por conſi<g ref="char:EOLhyphen"/>guiente manifieſtamente enemigos. Y que ſi no
+<pb n="5" facs="tcp:5819:4"/>
+hauiendo hecho caſo de lodicho, les ſucediere algun daño o perjuyzio, en ſus perſonas o hazi<g ref="char:EOLhyphen"/>endas pro medio de qualquiera de los de nueſtr Armada, por auer dado ayuda y ſocorro al Rey d'Eſpaña, no ſe podran juſtamente quexar, o procurar que ſus Principes o ſeñores pidan de aqui en adelante que ſe les haga pro ello ſatisfa<g ref="char:EOLhyphen"/>cion o recompenſa ninguna. Y para mayor declaration de todo lo ſuſodicho, hauem os firmado y ſellado el original de la preſente, para que qualquiera perſona que quiſiere, lo pueda ver y leer, y hauemos tambien procurado que s'imprimeſſe en Frances, Italiano, Flamenco y Eſpañol, y que ſe diſtribuyeſſen los exem<g ref="char:EOLhyphen"/>plares, en los mas puertos que poſſible fu<g ref="char:EOLhyphen"/>era d'Eſpaña y de Portugal, para que en ellos y en otros de la ſujeçion deldicho Rey, ſe tenga tanto mejor noticia de to<g ref="char:EOLhyphen"/>do eſto.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>R. Eſſex.</item>
+                     <item>C. Howard.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
